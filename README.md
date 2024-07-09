@@ -53,6 +53,23 @@ We administered the immersive presence of 16 users within the virtual environmen
 
 ## Case Study
 
+<table>
+<thead>
+  <tr>
+    <th align="center"><img src="Media/Case Study - Physical Twin.gif"></th>
+    <th align="center"><img src="Media/Case Study - RViz.gif"></th>
+    <th align="center"><img src="Media/Case Study - Digital Twin.gif"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td align="center">Physical Twin</td>
+    <td align="center">State Estimation</td>
+    <td align="center">Digital Twin</td>
+  </tr>
+</tbody>
+</table>
+
 In order to evaluate the serviceability of the proposed framework, an edge-case urban driving scenario was devised. The scenario was laid out to jump-scare the ego vehicle and analyze its reactive response to the event. Particularly, the ego vehicle was supposed to keep driving straight unless it was unsafe/unethical to do so (e.g. dead end, traffic sign, traffic light, imminent collision, etc.). Down the road, a semiautonomous virtual vehicle was set up to cut across the ego vehicle as it approached the first 4-way intersection, requiring the ego vehicle to execute a panic-breaking maneuver while ensuring safety in case of any failures. The following plot depicts the ego vehicle behavior in autonomous (AV), connected autonomous (CAV), human-operated with static HMD (HV-S), and human-operated with dynamic HMD (HV-D) modes of operation:
 
 ![Ego vehicle behavior for panic-breaking case study](/Case%20Study/data_analysis.png)
