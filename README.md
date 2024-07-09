@@ -3,6 +3,8 @@ Human Machine Interfaces to AutoDRIVE Simulator
 
 ![Framework](Media/Framework.jpg)
 
+This repository uses [AutoDRIVE Ecosystem](https://autodrive-ecosystem.github.io/) to realize an immersive digital twin framework for exploring human-autonomy coexistence. The source repository for AutoDRIVE Ecosystem can be found [here](https://github.com/Tinker-Twins/AutoDRIVE).
+
 ## Human Machine Interfaces
 
 <table>
