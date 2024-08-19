@@ -96,6 +96,7 @@ primaryClass = {cs.RO},
 url = {https://arxiv.org/abs/2406.05465}, 
 }
 ```
+This work has been accepted at **2024 IEEE Conference on Telepresence (TELEPRESENCE).**
 
 #### [AutoDRIVE: A Comprehensive, Flexible and Integrated Digital Twin Ecosystem for Enhancing Autonomous Driving Research and Education](https://arxiv.org/abs/2212.05241)
 ```bibtex
