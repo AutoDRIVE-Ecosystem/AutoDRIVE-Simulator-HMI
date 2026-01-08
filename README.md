@@ -86,23 +86,24 @@ We encourage you to read and cite the following papers if you use any part of th
 
 #### [Metaverse for Safer Roadways: An Immersive Digital Twin Framework for Exploring Human-Autonomy Coexistence in Urban Transportation Systems](https://arxiv.org/abs/2406.05465)
 ```bibtex
-@misc{Metaverse-for-Safer-Roadways-2024,
-author = {Tanmay Vilas Samak and Chinmay Vilas Samak and Venkat Narayan Krovi},
-title = {Metaverse for Safer Roadways: An Immersive Digital Twin Framework for Exploring Human-Autonomy Coexistence in Urban Transportation Systems}, 
-year = {2024},
-eprint = {2406.05465},
-archivePrefix = {arXiv},
-primaryClass = {cs.RO},
-url = {https://arxiv.org/abs/2406.05465}, 
+@inproceedings{Metaverse-for-Safer-Roadways-2024,
+author={Samak, Tanmay V. and Samak, Chinmay V. and Krovi, Venkat N.},
+booktitle={2024 IEEE Conference on Telepresence}, 
+title={Metaverse for Safer Roadways: An Immersive Digital Twin Framework for Exploring Human-Autonomy Coexistence in Urban Transportation Systems}, 
+year={2024},
+volume={},
+number={},
+pages={160-165},
+doi={10.1109/Telepresence63209.2024.10841549}
 }
 ```
-This work has been accepted at **2024 IEEE Conference on Telepresence (TELEPRESENCE).**
+This work has been published in **2024 IEEE Conference on Telepresence (TELE).** The publication can be found on [IEEE Xplore](https://doi.org/10.1109/Telepresence63209.2024.10841549).
 
 #### [AutoDRIVE: A Comprehensive, Flexible and Integrated Digital Twin Ecosystem for Enhancing Autonomous Driving Research and Education](https://arxiv.org/abs/2212.05241)
 ```bibtex
 @article{AutoDRIVE-Ecosystem-2023,
 author = {Samak, Tanmay and Samak, Chinmay and Kandhasamy, Sivanathan and Krovi, Venkat and Xie, Ming},
-title = {AutoDRIVE: A Comprehensive, Flexible and Integrated Digital Twin Ecosystem for Autonomous Driving Research &amp; Education},
+title = {AutoDRIVE: A Comprehensive, Flexible and Integrated Digital Twin Ecosystem for Autonomous Driving Research & Education},
 journal = {Robotics},
 volume = {12},
 year = {2023},
